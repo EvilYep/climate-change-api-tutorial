@@ -1,1 +1,1 @@
-Developing an API following a tutorial using Cheerios and axios
+Developing an API following a tutorial using Cheerio, Express and Axios
